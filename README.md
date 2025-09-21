@@ -13,6 +13,6 @@ Mars also has two small moons, **Phobos** and **Deimos**, likely captured astero
 
 For decades, Mars has been a focus of robotic missions, from NASA’s rovers *Spirit*, *Opportunity*, *Curiosity*, and *Perseverance* to orbiters from several nations. These missions aim to uncover the planet’s history, climate, geology, and the possibility of past or present microbial life.
 
-Mars continues to inspire science fiction, research, and future plans for colonization. Many see it as humanity’s next great step beyond Earth.//8
+Mars continues to inspire science fiction, research, and future plans for colonization. Many see it as humanity’s next great step beyond Earth.//8//8
 
 
